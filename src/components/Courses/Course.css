@@ -1,0 +1,27 @@
+.course-wrap{
+   width: 100%;
+   margin: 100px 0;
+}
+.corse-first-box{
+    width: 500px;
+    margin: 0px 200px 0px 0px;
+}
+.corse-first-box h1{
+    margin: 40px 0;
+    text-transform: uppercase;
+    text-align: center;
+    color: lightgray;
+    text-shadow: 3px 3px 4px rgb(65, 63, 63)
+}
+.corse-second-box{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px lightgray;
+    width: 400px;
+    height: 400px;
+    padding:30px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}

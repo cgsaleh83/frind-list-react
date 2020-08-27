@@ -1,0 +1,18 @@
+span{
+    margin-left: 150px
+}
+.course-cart h4{
+    text-align: center;
+    margin-bottom: 20px;
+    color: lightgray;
+    text-transform: uppercase;
+}
+.course-cart h5{
+    padding: 10px
+}
+.course-cart Button{
+    margin: 100px 0 0 120px;
+}
+.btn-order{
+    margin-left: 5px;
+}
